@@ -25,11 +25,11 @@ export default function Home() {
             <span>
               GitHub Issue:
               <Link
-                href="https://github.com/WalletConnect/web3modal/issues/1403"
+                href="https://github.com/WalletConnect/web3modal/issues/1405"
                 target="_blank"
                 className="pl-1 underline text-blue-500"
               >
-                WalletConnect/web3modal Issue #1403
+                WalletConnect/web3modal Issue #1405
               </Link>
             </span>
             <span>Reproduction Steps:</span>
@@ -49,11 +49,11 @@ export default function Home() {
             <span>
               GitHub Issue:
               <Link
-                href="https://github.com/WalletConnect/web3modal/issues/1404"
+                href="https://github.com/WalletConnect/web3modal/issues/1406"
                 target="_blank"
                 className="pl-1 underline text-blue-500"
               >
-                WalletConnect/web3modal Issue #1404
+                WalletConnect/web3modal Issue #1406
               </Link>
             </span>
             <span>Reproduction Steps:</span>
@@ -71,11 +71,11 @@ export default function Home() {
             <span>
               GitHub Issue:
               <Link
-                href="https://github.com/WalletConnect/web3modal/issues/1405"
+                href="https://github.com/WalletConnect/web3modal/issues/1407"
                 target="_blank"
                 className="pl-1 underline text-blue-500"
               >
-                WalletConnect/web3modal Issue #1405
+                WalletConnect/web3modal Issue #1407
               </Link>
             </span>
             <span>Reproduction Steps:</span>
@@ -105,11 +105,11 @@ export default function Home() {
             <span>
               GitHub Issue:
               <Link
-                href="https://github.com/WalletConnect/web3modal/issues/1406"
+                href="https://github.com/WalletConnect/web3modal/issues/1408"
                 target="_blank"
                 className="pl-1 underline text-blue-500"
               >
-                WalletConnect/web3modal Issue #1406
+                WalletConnect/web3modal Issue #1408
               </Link>
             </span>
             <span className="max-w-2xl">
